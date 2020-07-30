@@ -1,5 +1,5 @@
 #whatsapp
-/* cyrillic-ext */
+
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
